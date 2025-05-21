@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavo-r-martins
 - 👀 I’m interested in nonlinear optics
-- 🌱 I’m currently doing my mastering degree
+- 🌱 I’m currently doing my PhD at Heriot-Watt University
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on Twitter @grmarts
 
